@@ -5,7 +5,7 @@ Governer experiment with nidec motor (spoiler alert - contains friction!)
 
 ![Governor](./hw/cad/Governor.PNG)
 
-##PCB
+## PCB
 The PCB files are for a version of the PCB intended to work for a number of different hardware setups and used for the Spinner experiment [spinner-nidex](https://github.com/practable/spinner-nidec) and therefore does not represent the best design for the Governor alone. There is currently no PCB design for the Governor experiment specifically.
 
 ![PCB](./hw/pcb/PCB_PIDController.png)
